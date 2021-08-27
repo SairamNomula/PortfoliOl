@@ -49,6 +49,10 @@ section {
     padding: 1rem;
 }
 
+a {
+    color: rgb(182, 182, 182);
+}
+
 .btn{
     padding:.7rem 3rem;
     background:#3f3f3f;
